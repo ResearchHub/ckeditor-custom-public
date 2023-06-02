@@ -421,6 +421,8 @@ CKEditorCS.defaultConfig = {
     ],
 
     toolbar: [
+      "toggleImageCaption",
+      "|",
       "resizeImage",
       "|",
       "imageStyle:alignLeft",
